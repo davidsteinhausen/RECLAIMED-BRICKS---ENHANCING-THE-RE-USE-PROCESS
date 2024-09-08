@@ -1,2 +1,8 @@
-# Repository_MA_Thesis
- repository of the brick master thesis
+# RECLAIMED BRICKS - ENHANCING THE RE-USE PROCESS
+Methodology to Identify, Cluster and Evaluate Reclaimed Solid Clay Bricks for Allocation in New Structures
+
+Master Thesis
+Department of Architecture
+School of Engineering and Design 
+Technical University of Munich
+
