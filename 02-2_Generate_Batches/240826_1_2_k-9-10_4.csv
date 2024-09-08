@@ -1,0 +1,5 @@
+Unnamed: 0,brick_id,delivery_nr,brick_format,brick_original_dimensions (mm),brick_origin,brick_distance (km),age (y),colour name,turn_nr,mortar rests (%),colour rests (%),R,G,B,lu (mm),wu (mm),hu (mm),volume (%),colour_clusters
+1610,1611,1,Reichsformat,"250, 120, 65",Erding,43,79,beige,2,0.25,0.09,229,203,145,244.6,117.5,66.4,0.98,9
+1627,1628,1,Reichsformat,"250, 120, 65",Erding,43,79,beige,2,0.37,0.01,229,203,145,253.6,121.5,62.7,0.99,9
+1632,1633,1,Reichsformat,"250, 120, 65",Erding,43,79,beige,2,0.47,0.15,229,203,145,250.7,120.1,61.9,0.96,9
+1643,1644,1,Reichsformat,"250, 120, 65",Erding,43,79,beige,2,0.41,0.01,229,203,145,257.1,120.4,65.9,1.05,9

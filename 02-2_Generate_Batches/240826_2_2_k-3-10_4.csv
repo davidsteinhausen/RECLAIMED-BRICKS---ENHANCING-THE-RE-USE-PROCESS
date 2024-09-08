@@ -1,0 +1,14 @@
+Unnamed: 0,brick_id,delivery_nr,brick_format,brick_original_dimensions (mm),brick_origin,brick_distance (km),age (y),colour name,turn_nr,mortar rests (%),colour rests (%),R,G,B,lu (mm),wu (mm),hu (mm),volume (%),colour_clusters
+3421,3422,2,Reichsformat,"250, 120, 65",Rosenheim,70,191,red-brown,2,0.3,0.12,229,96,63,238.9,121.9,64.8,0.97,3
+3430,3431,2,Reichsformat,"250, 120, 65",Rosenheim,70,191,red-brown,2,0.46,0.08,229,96,63,259.7,118.0,65.7,1.03,3
+3454,3455,2,Reichsformat,"250, 120, 65",Rosenheim,70,191,red-brown,2,0.25,0.13,229,96,63,251.3,123.7,67.6,1.08,3
+3456,3457,2,Reichsformat,"250, 120, 65",Rosenheim,70,191,red-brown,2,0.8,0.01,229,96,63,242.1,122.1,64.2,0.97,3
+3457,3458,2,Reichsformat,"250, 120, 65",Rosenheim,70,191,red-brown,2,0.34,0.01,229,96,63,257.8,117.1,65.9,1.02,3
+3498,3499,2,Reichsformat,"250, 120, 65",Rosenheim,70,191,red-brown,2,0.28,0.01,229,96,63,239.2,117.5,64.8,0.93,3
+3519,3520,2,Reichsformat,"250, 120, 65",Rosenheim,70,191,red-brown,2,0.23,0.01,229,96,63,250.3,118.6,63.9,0.97,3
+3527,3528,2,Reichsformat,"250, 120, 65",Rosenheim,70,191,red-brown,2,0.19,0.09,229,96,63,255.0,119.7,62.9,0.98,3
+3528,3529,2,Reichsformat,"250, 120, 65",Rosenheim,70,191,red-brown,2,0.25,0.01,229,96,63,249.0,123.3,66.1,1.04,3
+3535,3536,2,Reichsformat,"250, 120, 65",Rosenheim,70,191,red-brown,2,0.25,0.01,229,96,63,245.5,121.2,62.1,0.95,3
+3539,3540,2,Reichsformat,"250, 120, 65",Rosenheim,70,191,red-brown,2,0.15,0.01,229,96,63,244.9,115.0,67.8,0.98,3
+3541,3542,2,Reichsformat,"250, 120, 65",Rosenheim,70,191,red-brown,2,0.16,0.09,229,96,63,260.6,118.0,66.3,1.05,3
+3565,3566,2,Reichsformat,"250, 120, 65",Rosenheim,70,191,red-brown,2,0.32,0.11,229,96,63,251.1,114.8,67.1,0.99,3
