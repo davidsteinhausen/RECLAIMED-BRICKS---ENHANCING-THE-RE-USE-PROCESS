@@ -1,5 +1,5 @@
 # RECLAIMED BRICKS - ENHANCING THE RE-USE PROCESS
-Methodology to Identify, Cluster and Evaluate Reclaimed Solid Clay Bricks for Allocation in New Structures
+Methodology to Identify, Cluster and Evaluate Reclaimed Bricks for Allocation in New Structures
 
 Master Thesis
 Department of Architecture
